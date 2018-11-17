@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Jekyll 搭建静态博客"
-date:   2015-02-15 22:14:54
+date:   2018-11-18 15:14:54
 categories: jekyll
 tags: jekyll RubyGems
 ---
@@ -10,10 +10,6 @@ tags: jekyll RubyGems
 {:toc}
 
 一直以来都想搭建一个自己的博客，但是近半年做项目太忙，再加上教研室的网络很坑爹，所以也一直没顾得上。之前用过 WordPress 托管在免费的京东云擎上，但是速度太慢。在知乎上看到一些相关的内容，于是选择了在github上用jekyll搭建博客。
-
-
-
-
 
 ## 搭建过程
 
@@ -151,6 +147,5 @@ Installing ri documentation for hitimes-1.2.1
 Done installing documentation for hitimes after 1 seconds
 1 gem installed
 ```
-
 
 关于，[hitimes](https://rubygems.org/gems/hitimes/versions/1.2.2) 是一个快速的高效的定时器解决方案库，详情可以去官网查看。
