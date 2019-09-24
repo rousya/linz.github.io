@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  this is a template
+title:  Linux selected features
 date:   2019-01-18 17:53:58
 categories: linux kernel
 tags: Linux Kernel
