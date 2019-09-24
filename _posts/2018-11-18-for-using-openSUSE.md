@@ -12,7 +12,7 @@ tags: Linux Kernel
 
 ## 第三方源
 
-![官网介绍](https://zh.opensuse.org/%E7%AC%AC%E4%B8%89%E6%96%B9%E8%BD%AF%E4%BB%B6%E6%BA%90)
+[官网介绍](https://zh.opensuse.org/%E7%AC%AC%E4%B8%89%E6%96%B9%E8%BD%AF%E4%BB%B6%E6%BA%90)
 
 ## 添加第三方源
 
@@ -26,9 +26,9 @@ zypper ar -f http://download.opensuse.org/repositories/science/SLE_15/ science
 
 ### 显卡驱动（ATI）
 
-![显卡驱动安装](https://cn.opensuse.org/ATI_%E6%98%BE%E5%8D%A1%E9%A9%B1%E5%8A%A8%E7%9A%84%E5%AE%89%E8%A3%85)
+[显卡驱动安装](https://cn.opensuse.org/ATI_%E6%98%BE%E5%8D%A1%E9%A9%B1%E5%8A%A8%E7%9A%84%E5%AE%89%E8%A3%85)
 
-![显卡驱动下载](https://www.amd.com/zh-hans/support/graphics/amd-radeon-hd/ati-mobility-radeon-hd-4000-series/ati-mobility-radeon-hd-4570)
+[显卡驱动下载](https://www.amd.com/zh-hans/support/graphics/amd-radeon-hd/ati-mobility-radeon-hd-4000-series/ati-mobility-radeon-hd-4570)
 
 ```
 https://cn.opensuse.org/ATI_%E6%98%BE%E5%8D%A1%E9%A9%B1%E5%8A%A8%E7%9A%84%E5%AE%89%E8%A3%85
